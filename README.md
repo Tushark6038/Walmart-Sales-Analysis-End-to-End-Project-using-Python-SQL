@@ -17,14 +17,15 @@ To analyze Walmart's retail transaction data and answer key business questions s
 
 ## 🖼 Preview
 
-![Walmart EDA Preview](https://github.com/YourUsername/Walmart-SQL-Project/blob/main/Assets/walmart_logo.png)
+![Walmart EDA Preview](https://github.com/Tushark6038/Walmart-Sales-Analysis-End-to-End-Project-using-Python-SQL/blob/102dd6d0d548b7b49cc6d1efc0d4e4761219024d/Preview.jpg)
 
 ---
 
-## 📂 Dataset
+## 📂 Project Resources
 
 - 🔗 [Raw Dataset (CSV/XLS)](https://github.com/Tushark6038/Walmart-Sales-Analysis-End-to-End-Project-using-Python-SQL/blob/35119404c9bcda02f71b399a7df342e16d447b00/Walmart.csv)
 - 🔗 [Cleaned Dataset (XLS)](https://github.com/Tushark6038/Walmart-Sales-Analysis-End-to-End-Project-using-Python-SQL/blob/35119404c9bcda02f71b399a7df342e16d447b00/Walmart_Cleaned_Data.csv)
+- 🔗 [Business Questions](https://github.com/Tushark6038/Walmart-Sales-Analysis-End-to-End-Project-using-Python-SQL/blob/102dd6d0d548b7b49cc6d1efc0d4e4761219024d/Walmart%20Business%20Problems.pdf)
 
 ---
 
@@ -32,7 +33,7 @@ To analyze Walmart's retail transaction data and answer key business questions s
 
 - **SQL (MySQL)** – Querying and business logic
 - **Python (Pandas)** – Data cleaning, date parsing
-- **Jupyter Notebook / VS Code**
+- **Jupyter Notebook**
 - **Excel** – Initial exploration
 
 ---
