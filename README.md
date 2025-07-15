@@ -1,4 +1,4 @@
-# 🛍️ Walmart Business Insights – SQL + Python Project
+# 🛒 Walmart Business Insights – SQL + Python Project
 
 This project presents a structured business analysis of Walmart’s transactional dataset using **SQL** and **Python (Pandas)**. The goal is to extract **insightful patterns** about revenue trends, customer behavior, shift patterns, branch performance, and payment preferences that can help Walmart optimize operations and drive data-backed decisions.
 
