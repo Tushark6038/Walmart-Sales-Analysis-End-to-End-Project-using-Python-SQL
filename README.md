@@ -26,6 +26,7 @@ To analyze Walmart's retail transaction data and answer key business questions s
 - 🔗 [Raw Dataset (CSV/XLS)](https://github.com/Tushark6038/Walmart-Sales-Analysis-End-to-End-Project-using-Python-SQL/blob/35119404c9bcda02f71b399a7df342e16d447b00/Walmart.csv)
 - 🔗 [Cleaned Dataset (XLS)](https://github.com/Tushark6038/Walmart-Sales-Analysis-End-to-End-Project-using-Python-SQL/blob/35119404c9bcda02f71b399a7df342e16d447b00/Walmart_Cleaned_Data.csv)
 - 🔗 [Business Questions](https://github.com/Tushark6038/Walmart-Sales-Analysis-End-to-End-Project-using-Python-SQL/blob/102dd6d0d548b7b49cc6d1efc0d4e4761219024d/Walmart%20Business%20Problems.pdf)
+- 🔗 [SQL FIle](https://github.com/Tushark6038/Walmart-Sales-Analysis-End-to-End-Project-using-Python-SQL/blob/40ae6cc141e610862232802a0a9b50f096aad8a8/Walmart%20SQL%20File.sql)
 
 ---
 
